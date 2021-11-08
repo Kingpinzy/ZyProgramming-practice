@@ -231,6 +231,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b70f631eb30d054694e4677c67c0018, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  name: zy
+  health: 10
+  atk: 2.2
+  isbuff: 1
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
